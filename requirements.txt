@@ -2,4 +2,8 @@ streamlit
 sympy
 matplotlib
 numpy
+streamlit
+matplotlib
+numpy
+scipy
 fpdf
